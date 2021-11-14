@@ -1,9 +1,5 @@
-# blog-1 : Generate your own favourite TV episode using python
-This program helps you generate TV episodes using python and transformers  
-You can read the complete blog:
-- 
-- 
-- 
+# blog-1 : Generate your own favourite TV episode using python  
 
-Also visit my website:
-- 
+This program helps you generate TV episodes using python and transformers  
+
+
